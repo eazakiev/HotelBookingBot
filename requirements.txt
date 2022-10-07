@@ -1,2 +1,7 @@
-pyTelegramBotAPI==4.7.0
-python-dotenv==0.20.0
+python-dotenv==0.21.0
+aiogram~=2.22.2
+aiohttp~=3.8.1
+aioredis~=2.0
+environs~=9.0
+motor~=3.0.0
+python-telegram-bot-calendar~=1.0.5
